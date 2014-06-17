@@ -1,0 +1,265 @@
+/* 
+    Document   : styles
+    Created on : 23.8.2013, 11:46:32
+    Author     : Work
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.mod-gallery-image-thumb-a {
+   float: left;
+   width: 150px;
+   height: 150px;
+   text-align: center;
+   padding: 2px;
+   margin: 3px;
+   border: 1px solid #CCC;
+   display: block;
+}
+
+.mod-gallery-image-thumb-a-edit {
+    float: left;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    padding: 2px;
+    margin: 0;
+    border: 1px solid #CCC;
+    display: block;
+}
+
+.mod-gallery-hidden-comments, .mod-gallery-hidden-description, .mod-gallery-hidden-name, .mod-gallery-hidden-source, .mod-gallery-hidden-attachments{
+    display: none;
+}
+
+.mod-gallery-image-thumb-a:hover, .mod-gallery-image-thumb-a-edit:hover {
+    border-color: #999;
+    cursor: pointer;
+}
+
+.mod-gallery-images-div {
+    position: relative;
+}
+
+.mod-gallery-thumb-edit {
+    float:left;
+    width: 156px;
+    height: 180px;
+    text-align: center;
+    margin: 3px;
+}
+
+.mod-gallery-thumb-actions {
+    
+}
+
+.mod-gallery-clear {
+    clear: both;
+}
+
+.mod-gallery-image-preview {
+    position: absolute;
+    left:0px;
+    right:186px;
+    top:0px;
+    float:left;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#mod-gallery-image-previous {
+    position: absolute;
+    top:177px;
+    left:0px;
+    z-index: 2;
+    cursor: pointer;
+}
+
+#mod-gallery-image-next {
+    position: absolute;
+    top:177px;
+    right:0px;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.mod-gallery-image-preview-table {
+    width: 100%;
+    display: table;
+    height: 400px;
+}
+
+.mod-gallery-image-preview-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.mod-gallery-images-side {
+    float:right;
+    width: 175px;
+    border-left: 1px solid #CCC;
+    height: 400px;
+    padding: 4px 5px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.mod-gallery-images-side a {
+    display: block;
+    margin: 2px 1px;
+    text-align: center;
+    padding: 2px;
+    border: 1px solid #CCC;
+}
+
+.mod-gallery-images-side a:hover {
+    border-color: #999;
+}
+
+.mod-gallery-image-preview-img {
+    max-width: 100%;
+}
+
+#mod-gallery-navigation-buttons div, #mod-gallery-navigation-buttons .singlebutton form, #mod-gallery-navigation-buttons .singlebutton form div  {
+    display: inline;
+}
+
+#mod-gallery-navigation-buttons img {
+    margin-left: 5px;
+}
+
+#mod-gallery-image-desc {
+    margin-right: 185px;
+    padding:10px;
+}
+
+#mod-gallery-image-attachments {
+    margin-right: 185px;
+    padding:10px;
+}
+
+#mod-gallery-image-source {
+    margin-right: 185px;
+    padding: 2px 10px 10px 10px;
+    text-align: right;
+}
+
+.mod-gallery-extra-nav {
+    float:right;
+    display: block;
+    position:relative;
+    top:-16px;
+}
+
+.mod-gallery-image-comments {
+    padding: 10px;
+}
+
+.mod-gallery-image-comments-hidden {
+    display:none;
+}
+
+.mod-gallery-drag-thumb {
+    cursor: move;
+}
+
+#mod-gallery-drop-indicator {
+    width: 2px;
+    margin: 4px -1px;
+    background: red;
+    height: 154px;
+    float: left;
+}
+
+.mod-gallery-thumb-actions {
+    text-align: right;
+}
+
+.mod-gallery-thumb-actions img {
+    margin: 2px 2px 0 3px;
+}
+
+.mod-gallery-thumb-actions input {
+    float: left;
+    margin: 2px 0 0 2px;
+}
+
+.mod-gallery-select-deselect-container {
+    margin: 4px 0 0 0;
+}
+
+/******************************/
+/********INTRO STYLING*********/
+/******************************/
+.mod-gallery-image-previous-intro {
+    position: absolute;
+    top:0px;
+    left:0px;
+    z-index:2;
+    bottom:0px;
+    width:32px;
+    cursor: pointer;
+    background:url([[pix:gallery|previntro]]); 
+}
+
+.mod-gallery-image-next-intro {
+    position: absolute;
+    top:0px;
+    right:0px;
+    z-index:2;
+    bottom:0px;
+    width:32px;
+    cursor: pointer;
+    background:url([[pix:gallery|nextintro]]); 
+}
+
+.mod-gallery-image-previous-intro:hover {
+    background:url([[pix:gallery|previntrohover]]); 
+}
+
+.mod-gallery-image-next-intro:hover {
+    background:url([[pix:gallery|nextintrohover]]); 
+}
+
+.mod-gallery-intro-thumbnails-container {
+    height:156px;
+    width:100%;
+    position:relative;
+}
+
+.mod-gallery-intro-thumbnails-table {
+    height:156px;
+    margin:0px;
+    padding:0px;
+    display:table;
+    table-layout: fixed;
+}
+
+.mod-gallery-intro-thumbnails-table a {
+    display:table-cell;
+    border:1px solid transparent;
+    height:150px;
+    text-align:center;
+    vertical-align:middle;
+    margin:2px;
+}
+
+.mod-gallery-intro-thumbnails-table a:hover {
+    border-color: #999;
+}
+
+.mod-gallery-intro-thumb-cont-helper {
+    position:absolute;
+    overflow:hidden;
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+}
+
+#mod-gallery-image-preview-download {
+    margin-right: 185px;
+    padding: 2px 10px 10px 10px;
+    text-align: center;
+}

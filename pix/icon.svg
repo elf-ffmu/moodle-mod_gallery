@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" id="ikonaGalerieFla" image-rendering="optimizeSpeed" baseProfile="basic" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="9.412500000000001" y1="15.912500000000001" x2="10.6875" y2="17.1875" id="linearGradient21">
+      <stop stop-color="#57C3F6" stop-opacity="1" offset="0"/>
+      <stop stop-color="#83D3F8" stop-opacity="1" offset="0.16471"/>
+      <stop stop-color="#AFE3FB" stop-opacity="1" offset="0.35686"/>
+      <stop stop-color="#D2EFFD" stop-opacity="1" offset="0.54118"/>
+      <stop stop-color="#EBF8FE" stop-opacity="1" offset="0.71373"/>
+      <stop stop-color="#FAFDFF" stop-opacity="1" offset="0.87059"/>
+      <stop stop-color="#FFFFFF" stop-opacity="1" offset="1"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="8.2" y1="18.65" x2="12.100000000000001" y2="14.75" id="linearGradient22">
+      <stop stop-color="#F8E5B5" stop-opacity="1" offset="0"/>
+      <stop stop-color="#F9E5B6" stop-opacity="1" offset="1"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="7.05" y1="12.1375" x2="9.15" y2="17.1625" id="linearGradient23">
+      <stop stop-color="#57C3F6" stop-opacity="1" offset="0"/>
+      <stop stop-color="#59C4F6" stop-opacity="1" offset="0.00392"/>
+      <stop stop-color="#85D3F8" stop-opacity="1" offset="0.12549"/>
+      <stop stop-color="#AAE1FA" stop-opacity="1" offset="0.24706"/>
+      <stop stop-color="#C9ECFC" stop-opacity="1" offset="0.37647"/>
+      <stop stop-color="#E1F4FD" stop-opacity="1" offset="0.5098"/>
+      <stop stop-color="#F2FAFE" stop-opacity="1" offset="0.65098"/>
+      <stop stop-color="#FCFEFF" stop-opacity="1" offset="0.80784"/>
+      <stop stop-color="#FFFFFF" stop-opacity="1" offset="1"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="9.412500000000001" y1="15.912500000000001" x2="10.6875" y2="17.1875" id="linearGradient24">
+      <stop stop-color="#57C3F6" stop-opacity="1" offset="0"/>
+      <stop stop-color="#83D3F8" stop-opacity="1" offset="0.16471"/>
+      <stop stop-color="#AFE3FB" stop-opacity="1" offset="0.35686"/>
+      <stop stop-color="#D2EFFD" stop-opacity="1" offset="0.54118"/>
+      <stop stop-color="#EBF8FE" stop-opacity="1" offset="0.71373"/>
+      <stop stop-color="#FAFDFF" stop-opacity="1" offset="0.87059"/>
+      <stop stop-color="#FFFFFF" stop-opacity="1" offset="1"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="8.2" y1="18.65" x2="12.100000000000001" y2="14.75" id="linearGradient25">
+      <stop stop-color="#F8E5B5" stop-opacity="1" offset="0"/>
+      <stop stop-color="#F9E5B6" stop-opacity="1" offset="1"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="7.05" y1="12.1375" x2="9.15" y2="17.1625" id="linearGradient26">
+      <stop stop-color="#57C3F6" stop-opacity="1" offset="0"/>
+      <stop stop-color="#59C4F6" stop-opacity="1" offset="0.00392"/>
+      <stop stop-color="#85D3F8" stop-opacity="1" offset="0.12549"/>
+      <stop stop-color="#AAE1FA" stop-opacity="1" offset="0.24706"/>
+      <stop stop-color="#C9ECFC" stop-opacity="1" offset="0.37647"/>
+      <stop stop-color="#E1F4FD" stop-opacity="1" offset="0.5098"/>
+      <stop stop-color="#F2FAFE" stop-opacity="1" offset="0.65098"/>
+      <stop stop-color="#FCFEFF" stop-opacity="1" offset="0.80784"/>
+      <stop stop-color="#FFFFFF" stop-opacity="1" offset="1"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="9.412500000000001" y1="15.912500000000001" x2="10.6875" y2="17.1875" id="linearGradient27">
+      <stop stop-color="#57C3F6" stop-opacity="1" offset="0"/>
+      <stop stop-color="#83D3F8" stop-opacity="1" offset="0.16471"/>
+      <stop stop-color="#AFE3FB" stop-opacity="1" offset="0.35686"/>
+      <stop stop-color="#D2EFFD" stop-opacity="1" offset="0.54118"/>
+      <stop stop-color="#EBF8FE" stop-opacity="1" offset="0.71373"/>
+      <stop stop-color="#FAFDFF" stop-opacity="1" offset="0.87059"/>
+      <stop stop-color="#FFFFFF" stop-opacity="1" offset="1"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="8.2" y1="18.65" x2="12.100000000000001" y2="14.75" id="linearGradient28">
+      <stop stop-color="#F8E5B5" stop-opacity="1" offset="0"/>
+      <stop stop-color="#F9E5B6" stop-opacity="1" offset="1"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" x1="7.05" y1="12.1375" x2="9.15" y2="17.1625" id="linearGradient29">
+      <stop stop-color="#57C3F6" stop-opacity="1" offset="0"/>
+      <stop stop-color="#59C4F6" stop-opacity="1" offset="0.00392"/>
+      <stop stop-color="#85D3F8" stop-opacity="1" offset="0.12549"/>
+      <stop stop-color="#AAE1FA" stop-opacity="1" offset="0.24706"/>
+      <stop stop-color="#C9ECFC" stop-opacity="1" offset="0.37647"/>
+      <stop stop-color="#E1F4FD" stop-opacity="1" offset="0.5098"/>
+      <stop stop-color="#F2FAFE" stop-opacity="1" offset="0.65098"/>
+      <stop stop-color="#FCFEFF" stop-opacity="1" offset="0.80784"/>
+      <stop stop-color="#FFFFFF" stop-opacity="1" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer.__201">
+    <g id="ikona_1" transform="matrix(1 0 0 1 0.45 0.5)" overflow="visible">
+      <g id="Layer.__212">
+        <g id="obrazok1_3" transform="matrix(-1.01763916015625 0 0 1.0177001953125 23.05 0)" overflow="visible">
+          <g id="Layer.__213">
+            <g id="group3" transform="matrix(1 0 0 1 0 0)">
+              <g id="drawingObject50" transform="matrix(1 0 0 1 0 0)">
+                <path id="path52" fill="#BBE0F7" fill-opacity="1" d="M16,-0.025 L0,-0.025 -0.025,0 -0.025,15.95 0,15.975 16,15.975 16.025,15.95 16.025,0 16,-0.025z "/>
+              </g>
+              <g id="drawingObject51" transform="matrix(1 0 0 1 0 0)">
+                <path id="path53" fill="none" stroke="#82B4FB" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" d="M16,15.95 L16,0 0,0 0,15.95 16,15.95z "/>
+              </g>
+            </g>
+            <g id="obr_6" transform="matrix(1 0 0 1 2.05 2)" overflow="visible">
+              <g id="Layer.__214">
+                <g id="drawingObject52" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path54" fill="url(#linearGradient21)" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 11.375,13.925 11.325,13.925 7.425,17.825 7.425,17.875 8.75,19.225z "/>
+                </g>
+                <g id="drawingObject53" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path55" fill="#F2EFD5" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 12.275,14.925 L12.3,14.95 C12.05,15.1 11.6,15.45 10.9,16.05 10.45,16.4 10.1,16.6 9.85,16.65 9.4,16.8 9.05,16.9 8.9,16.95 8.55,17.1 8.05,17.4 7.5,17.95 L7.475,17.925 L7.475,17.975 8.75,19.225z "/>
+                </g>
+                <g id="drawingObject54" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path56" fill="url(#linearGradient22)" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 12.375,15.025 L12.4,15.05 C12,15.45 11.55,15.85 11.1,16.25 10.7,16.6 10.35,16.75 10.05,16.8 9.55,16.8 9.2,16.85 8.95,17 8.55,17.2 8.1,17.6 7.65,18.15 L7.625,18.125 L8.75,19.225z "/>
+                </g>
+                <g id="drawingObject55" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path57" fill="url(#linearGradient23)" fill-opacity="1" d="M7.45,17.875 L7.475,17.875 11.375,13.975 11.375,13.925 8.775,11.375 8.725,11.375 4.825,15.225 4.825,15.275 7.45,17.875z "/>
+                </g>
+                <g id="drawingObject56" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path58" fill="#FFFFFF" fill-opacity="1" d="M8.925,11.575 Q8.6892578125,11.771484375 8.675,11.975 L8.45,11.975 L8.45,12 C8.3,12.05 8.2,12.15 8.15,12.35 8.1,12.5 8.1,12.65 8.15,12.75 8.2,12.8 8.3,12.9 8.45,12.95 L8.45,12.925 L8.425,13 8.45,13.15 8.425,13.225 L8.45,13.25 C8.4,13.3 8.4,13.4 8.45,13.55 8.5,13.75 8.6,13.85 8.75,13.9 L8.725,13.875 L8.775,14.1 L8.8,14.1 C8.85,14.25 8.95,14.4 9.15,14.45 L9.15,14.425 L9.3,14.45 C9.5,14.45 9.65,14.35 9.7,14.15 9.9,14.1 10.1,14.05 10.3,14 10.5,13.85 10.65,13.65 10.7,13.5 L10.675,13.475 L10.8,13.475 10.825,13.425 8.925,11.575z "/>
+                </g>
+                <g id="drawingObject57" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path59" fill="#FFFFFF" fill-opacity="1" d="M8.575,14.675 Q8.73203125,14.6146484375 8.65,14.425 L8.475,14.375 8.325,14.325 8.25,14.4 8.2,14.375 8.15,14.4 C8.1,14.3 8,14.25 7.95,14.3 L7.925,14.275 L7.825,14.425 7.675,14.525 L7.7,14.55 C7.65,14.6 7.65,14.6 7.65,14.65 7.7,14.7 7.75,14.7 7.8,14.75 L7.775,14.725 L7.775,14.925 7.825,14.975 8,15.175 L8,15.2 C8.05,15.2 8.1,15.15 8.15,15.1 L8.125,15.075 L8.325,15.025 L8.35,15.05 C8.4,15 8.4,14.95 8.45,14.9 L8.425,14.875 L8.525,14.8 8.575,14.675z "/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="obrazok1_4" transform="matrix(-1.01763916015625 0 0 1.0177001953125 19.9 3.35)" overflow="visible">
+          <g id="Layer.__215">
+            <g id="group4" transform="matrix(1 0 0 1 0 0)">
+              <g id="drawingObject58" transform="matrix(1 0 0 1 0 0)">
+                <path id="path60" fill="#BBE0F7" fill-opacity="1" d="M16,-0.025 L0,-0.025 -0.025,0 -0.025,15.95 0,15.975 16,15.975 16.025,15.95 16.025,0 16,-0.025z "/>
+              </g>
+              <g id="drawingObject59" transform="matrix(1 0 0 1 0 0)">
+                <path id="path61" fill="none" stroke="#82B4FB" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" d="M16,15.95 L16,0 0,0 0,15.95 16,15.95z "/>
+              </g>
+            </g>
+            <g id="obr_7" transform="matrix(1 0 0 1 2.05 2)" overflow="visible">
+              <g id="Layer.__216">
+                <g id="drawingObject60" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path62" fill="url(#linearGradient24)" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 11.375,13.925 11.325,13.925 7.425,17.825 7.425,17.875 8.75,19.225z "/>
+                </g>
+                <g id="drawingObject61" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path63" fill="#F2EFD5" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 12.275,14.925 L12.3,14.95 C12.05,15.1 11.6,15.45 10.9,16.05 10.45,16.4 10.1,16.6 9.85,16.65 9.4,16.8 9.05,16.9 8.9,16.95 8.55,17.1 8.05,17.4 7.5,17.95 L7.475,17.925 L7.475,17.975 8.75,19.225z "/>
+                </g>
+                <g id="drawingObject62" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path64" fill="url(#linearGradient25)" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 12.375,15.025 L12.4,15.05 C12,15.45 11.55,15.85 11.1,16.25 10.7,16.6 10.35,16.75 10.05,16.8 9.55,16.8 9.2,16.85 8.95,17 8.55,17.2 8.1,17.6 7.65,18.15 L7.625,18.125 L8.75,19.225z "/>
+                </g>
+                <g id="drawingObject63" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path65" fill="url(#linearGradient26)" fill-opacity="1" d="M7.45,17.875 L7.475,17.875 11.375,13.975 11.375,13.925 8.775,11.375 8.725,11.375 4.825,15.225 4.825,15.275 7.45,17.875z "/>
+                </g>
+                <g id="drawingObject64" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path66" fill="#FFFFFF" fill-opacity="1" d="M8.925,11.575 Q8.6892578125,11.771484375 8.675,11.975 L8.45,11.975 L8.45,12 C8.3,12.05 8.2,12.15 8.15,12.35 8.1,12.5 8.1,12.65 8.15,12.75 8.2,12.8 8.3,12.9 8.45,12.95 L8.45,12.925 L8.425,13 8.45,13.15 8.425,13.225 L8.45,13.25 C8.4,13.3 8.4,13.4 8.45,13.55 8.5,13.75 8.6,13.85 8.75,13.9 L8.725,13.875 L8.775,14.1 L8.8,14.1 C8.85,14.25 8.95,14.4 9.15,14.45 L9.15,14.425 L9.3,14.45 C9.5,14.45 9.65,14.35 9.7,14.15 9.9,14.1 10.1,14.05 10.3,14 10.5,13.85 10.65,13.65 10.7,13.5 L10.675,13.475 L10.8,13.475 10.825,13.425 8.925,11.575z "/>
+                </g>
+                <g id="drawingObject65" transform="matrix(1.52520751953125 1.52520751953125 -1.52520751953125 1.52520751953125 16 -30.549)">
+                  <path id="path67" fill="#FFFFFF" fill-opacity="1" d="M8.575,14.675 Q8.73203125,14.6146484375 8.65,14.425 L8.475,14.375 8.325,14.325 8.25,14.4 8.2,14.375 8.15,14.4 C8.1,14.3 8,14.25 7.95,14.3 L7.925,14.275 L7.825,14.425 7.675,14.525 L7.7,14.55 C7.65,14.6 7.65,14.6 7.65,14.65 7.7,14.7 7.75,14.7 7.8,14.75 L7.775,14.725 L7.775,14.925 7.825,14.975 8,15.175 L8,15.2 C8.05,15.2 8.1,15.15 8.15,15.1 L8.125,15.075 L8.325,15.025 L8.35,15.05 C8.4,15 8.4,14.95 8.45,14.9 L8.425,14.875 L8.525,14.8 8.575,14.675z "/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="drawingObject66" transform="matrix(-1.01763916015625 0 0 1.0177001953125 16.35 6.75)">
+          <path id="path68" fill="#BBE0F7" fill-opacity="1" d="M16,-0.025 L0,-0.025 -0.025,0 -0.025,15.95 0,15.975 16,15.975 16.025,15.95 16.025,0 16,-0.025z "/>
+        </g>
+        <g id="drawingObject67" transform="matrix(-1.01763916015625 0 0 1.0177001953125 16.35 6.75)">
+          <path id="path69" fill="none" stroke="#82B4FB" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" d="M16,15.95 L16,0 0,0 0,15.95 16,15.95z "/>
+        </g>
+        <g id="drawingObject68" transform="matrix(-1.5521087646484375 1.55218505859375 1.5521087646484375 1.55218505859375 -1.999 -22.299)">
+          <path id="path70" fill="url(#linearGradient27)" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 11.375,13.925 11.325,13.925 7.425,17.825 7.425,17.875 8.75,19.225z "/>
+        </g>
+        <g id="drawingObject69" transform="matrix(-1.5521087646484375 1.55218505859375 1.5521087646484375 1.55218505859375 -1.999 -22.299)">
+          <path id="path71" fill="#F2EFD5" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 12.275,14.925 L12.3,14.95 C12.05,15.1 11.6,15.45 10.9,16.05 10.45,16.4 10.1,16.6 9.85,16.65 9.4,16.8 9.05,16.9 8.9,16.95 8.55,17.1 8.05,17.4 7.5,17.95 L7.475,17.925 L7.475,17.975 8.75,19.225z "/>
+        </g>
+        <g id="drawingObject70" transform="matrix(-1.5521087646484375 1.55218505859375 1.5521087646484375 1.55218505859375 -1.999 -22.299)">
+          <path id="path72" fill="url(#linearGradient28)" fill-opacity="1" d="M8.75,19.225 L8.775,19.225 12.675,15.275 12.675,15.225 12.375,15.025 L12.4,15.05 C12,15.45 11.55,15.85 11.1,16.25 10.7,16.6 10.35,16.75 10.05,16.8 9.55,16.8 9.2,16.85 8.95,17 8.55,17.2 8.1,17.6 7.65,18.15 L7.625,18.125 L8.75,19.225z "/>
+        </g>
+        <g id="drawingObject71" transform="matrix(-1.5521087646484375 1.55218505859375 1.5521087646484375 1.55218505859375 -1.999 -22.299)">
+          <path id="path73" fill="url(#linearGradient29)" fill-opacity="1" d="M7.45,17.875 L7.475,17.875 11.375,13.975 11.375,13.925 8.775,11.375 8.725,11.375 4.825,15.225 4.825,15.275 7.45,17.875z "/>
+        </g>
+        <g id="drawingObject72" transform="matrix(-1.5521087646484375 1.55218505859375 1.5521087646484375 1.55218505859375 -1.999 -22.299)">
+          <path id="path74" fill="#FFFFFF" fill-opacity="1" d="M8.925,11.575 Q8.6892578125,11.771484375 8.675,11.975 L8.45,11.975 L8.45,12 C8.3,12.05 8.2,12.15 8.15,12.35 8.1,12.5 8.1,12.65 8.15,12.75 8.2,12.8 8.3,12.9 8.45,12.95 L8.45,12.925 L8.425,13 8.45,13.15 8.425,13.225 L8.45,13.25 C8.4,13.3 8.4,13.4 8.45,13.55 8.5,13.75 8.6,13.85 8.75,13.9 L8.725,13.875 L8.775,14.1 L8.8,14.1 C8.85,14.25 8.95,14.4 9.15,14.45 L9.15,14.425 L9.3,14.45 C9.5,14.45 9.65,14.35 9.7,14.15 9.9,14.1 10.1,14.05 10.3,14 10.5,13.85 10.65,13.65 10.7,13.5 L10.675,13.475 L10.8,13.475 10.825,13.425 8.925,11.575z "/>
+        </g>
+        <g id="drawingObject73" transform="matrix(-1.5521087646484375 1.55218505859375 1.5521087646484375 1.55218505859375 -1.999 -22.299)">
+          <path id="path75" fill="#FFFFFF" fill-opacity="1" d="M8.575,14.675 Q8.73203125,14.6146484375 8.65,14.425 L8.475,14.375 8.325,14.325 8.25,14.4 8.2,14.375 8.15,14.4 C8.1,14.3 8,14.25 7.95,14.3 L7.925,14.275 L7.825,14.425 7.675,14.525 L7.7,14.55 C7.65,14.6 7.65,14.6 7.65,14.65 7.7,14.7 7.75,14.7 7.8,14.75 L7.775,14.725 L7.775,14.925 7.825,14.975 8,15.175 L8,15.2 C8.05,15.2 8.1,15.15 8.15,15.1 L8.125,15.075 L8.325,15.025 L8.35,15.05 C8.4,15 8.4,14.95 8.45,14.9 L8.425,14.875 L8.525,14.8 8.575,14.675z "/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
